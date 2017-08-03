@@ -1,0 +1,7 @@
+./build/ALPHA/gem5.debug \
+                  configs/example/ruby_random_test.py \
+                  --num-cpus=16  \
+                  --num-dirs=16  \
+                  --network=simple
+                  --topology=Mesh_XY  \
+                  --mesh-rows=4 

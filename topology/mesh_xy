@@ -1,0 +1,5 @@
+host_mem_usage                                 651644                       # Number of bytes of host memory used
+system.mem_ctrls03_0.totalEnergy              6339228                       # Total energy per rank (pJ)
+system.mem_ctrls03_0.averagePower          787.873229                       # Core power per rank (mW)
+system.ruby.hit_latency_hist_seqr::total           18 
+system.ruby.miss_latency_hist_seqr::total          947 

@@ -1,0 +1,3 @@
+host_mem_usage                                 733820                       # Number of bytes of host memory used
+system.mem_ctrls03_0.totalEnergy              6314364                       # Total energy per rank (pJ)
+system.mem_ctrls03_0.averagePower          784.782998                       # Core power per rank (mW)
